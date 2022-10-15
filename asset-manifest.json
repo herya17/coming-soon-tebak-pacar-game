@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.cce7519c.css",
-    "main.js": "/static/js/main.2f0c8ce3.js",
+    "main.css": "/static/css/main.9db39607.css",
+    "main.js": "/static/js/main.af3de3e8.js",
     "static/media/tebak-pacar.webp": "/static/media/tebak-pacar.00b69cc5de1ee0331236.webp",
     "index.html": "/index.html",
-    "main.cce7519c.css.map": "/static/css/main.cce7519c.css.map",
-    "main.2f0c8ce3.js.map": "/static/js/main.2f0c8ce3.js.map"
+    "main.9db39607.css.map": "/static/css/main.9db39607.css.map",
+    "main.af3de3e8.js.map": "/static/js/main.af3de3e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.cce7519c.css",
-    "static/js/main.2f0c8ce3.js"
+    "static/css/main.9db39607.css",
+    "static/js/main.af3de3e8.js"
   ]
 }

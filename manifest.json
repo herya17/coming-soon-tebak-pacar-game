@@ -1,6 +1,6 @@
 {
   "short_name": "Tebak Pacar",
-  "name": "Tebak Pacar Game",
+  "name": "Tebak Pacar",
   "icons": [
     {
       "src": "images/favicon/icon.png",
@@ -19,7 +19,7 @@
     }
   ],
   "start_url": "/",
-  "description": "Tebak Pacar Game - I will do something to suprise you",
+  "description": "Tebak Pacar - Let's Smile",
   "orientation": "portrait",
   "display": "standalone",
   "theme_color": "#f2f2f2",
